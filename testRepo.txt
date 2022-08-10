@@ -7,3 +7,5 @@ penambahan
 penambahan dari temen
 
 penambahan pada branch test
+
+bikin conflict di main
